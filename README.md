@@ -67,7 +67,7 @@ position:relative;box-shadow:0 3px 10px rgba(255,60,0,0.3)
 </div>
 
 <div class="c">
-<h3>📞 TUNTUBE  TA👇</h3>
+<h3>📞 TUNTUBATA  TA👇</h3>
 <div class="r">
 <div><a href="tel:+2347035295707" target="_blank" class="a" style="background:linear-gradient(#ff8c00,#ff4d00)">📞</a><div class="label">Call</div></div>
 <div><a href="https://wa.me/2347035295707?text=Salam%20Sunking%20Garo%20ina%20bukatar%20hasken%20rana" target="_blank" class="a" style="background:linear-gradient(#25D366,#128C7E)">💬</a><div class="label">WhatsApp</div></div>
